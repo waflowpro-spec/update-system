@@ -3,7 +3,7 @@
 "files": [
 {
 "path": "test.txt",
-"url": "REEMPLAZAR_POR_URL_REAL/test.txt"
+"url": "https://raw.githubusercontent.com/waflowpro-spec/update-system/main/UpdateTest/test.txt"
 }
 ]
 }
