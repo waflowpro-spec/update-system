@@ -1,9 +1,9 @@
 {
-"version": "1.0",
+"version": "1.1",
 "files": [
 {
-"path": "test.txt",
-"url": "https://raw.githubusercontent.com/waflowpro-spec/update-system/main/UpdateTest/test.txt"
+"path": "Modules/test.txt",
+"url": "https://raw.githubusercontent.com/waflowpro-spec/update-system/main/Modules/test.txt"
 }
 ]
 }
