@@ -1,11 +1,9 @@
-﻿{
-"version": "1.1",
+{
+"version": "2.0",
 "files": [
 {
-"path": "Modules/test.txt",
-"url": "https://raw.githubusercontent.com/waflowpro-spec/update-system/main/UpdateTest/Modules/test.txt",
-"sha256": "2D4DE9082F88F2099C08BDB3555E778B43D770D57D83C139CB5C2D97B8FF51B7",
-"size": 17
+"path": "Modules/KeySecurity.dll",
+"url": "https://raw.githubusercontent.com/waflowpro-spec/update-system/main/UpdateTest/Modules/KeySecurity.dll"
 }
 ]
 }
